@@ -1,0 +1,9 @@
+python-dotenv
+bs4
+langchain
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
+tiktoken
+faiss-cpu
